@@ -1,6 +1,9 @@
-# هاترا بازاریاب
+#Boilerplate
 
-اپ فلاتر برای چت
+a boilerplate for flutter
+
+## Data Management
+Provider
 
 ## ReCreate Launcher icon
 Just Copy Your Desire icon anywhere then add the address of icon in flutter_launcher_icons.yaml then run below code in project directory
