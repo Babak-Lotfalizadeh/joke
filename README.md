@@ -1,6 +1,6 @@
-#Boilerplate
+##Boilerplate For Flutter
 
-a boilerplate for flutter
+simple boilerplate project for flutter , just minimalist project with theme setting
 
 ## Data Management
 Provider
